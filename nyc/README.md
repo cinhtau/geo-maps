@@ -1,17 +1,17 @@
 
 ## Catalog
 
-| Name                            | Source                                                                      |
-| ------------------------------- | --------------------------------------------------------------------------- |
-| NYC_Borough_Boundaries.geojson  | https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm  |
-| NYC_Community_Districts.geojson | https://data.cityofnewyork.us/City-Government/Community-Districts/yfnk-k7r4 |
-| NYC_Neighborhood.geojson        | https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-nynta.page       |
-|                                 |                                                                             |
+| Name                                                   | Source                                                                                            | Example                                           |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| [Borough](NYC_Borough_Boundaries.geojson)              | [New York Open Data](https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm)  | Manhattan, Brooklyn, Bronx, Queens, Staten Island |
+| [Community Districts](NYC_Community_Districts.geojson) | [New York Open Data](https://data.cityofnewyork.us/City-Government/Community-Districts/yfnk-k7r4) | Community District Numbers                        |
+| [Neighborhoods](NYC_Neighborhood.geojson)              | [NYC Planning ](https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-nynta.page)            | Upper West Side, Clinton, etc.                    |
+
 
 ## Open Data
 
-* https://www1.nyc.gov/site/planning/data-maps/open-data.page
-* https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm
+* [New York Open Data](https://www1.nyc.gov/site/planning/data-maps/open-data.page)
+* [NYC Planning](https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm)
 
 Other GitHub projects
 
